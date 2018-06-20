@@ -6,7 +6,9 @@ fav_celebrities{"shay"=> "anthony bourdain"
 "seema"=> "Allison kim"
 "anu"=> "the queen"
 "jesse"=> "Big time rush"
-"cassidy"=> "hanna montana"}
+"cassidy"=> "hanna montana"
+"lily" => "orlando bloom"
+
 
 
 
